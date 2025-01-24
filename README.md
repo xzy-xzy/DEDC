@@ -1,5 +1,5 @@
 # DEDC
-Dataset and code for paper "Investigating the (De)Composition Capabilities of Large Language Models in Natural-to-Formal Language Conversion".
+Dataset and code for the paper "Investigating the (De)Composition Capabilities of Large Language Models in Natural-to-Formal Language Conversion".
 
 ## Dataset
 The dataset is available as `*.jsonl` files in `dataset`. The `*.pkl` files are data files that can be used directly for evaluation codes. For filenames:
