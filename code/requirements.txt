@@ -1,0 +1,4 @@
+anthropic==0.34.2
+mistralai==1.0.3
+openai==1.44.0
+tqdm==4.65.0
