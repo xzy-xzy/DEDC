@@ -24,3 +24,16 @@ pip install -r requirements.txt
 ```
 See `eval_complete.sh` for commands for the evaluation.
 For models that support the batch API (e.g., GPT-4o), `icl_batch_eval.py` can be used instead of `icl_eval.py` to make batch API calls.
+
+## Citation
+```
+@misc{xu2025investigatingdecompositioncapabilitieslarge,
+      title={Investigating the (De)Composition Capabilities of Large Language Models in Natural-to-Formal Language Conversion}, 
+      author={Ziyao Xu and Houfeng Wang},
+      year={2025},
+      eprint={2501.14649},
+      archivePrefix={arXiv},
+      primaryClass={cs.CL},
+      url={https://arxiv.org/abs/2501.14649}, 
+}
+```
